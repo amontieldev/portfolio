@@ -1,0 +1,50 @@
+header {
+  background-color: #321414;
+  color: white;
+  padding: 10px;
+  font-family: "Lucida Handwriting", "Papyrus", "Sans-Serif";
+}
+body{
+  background-color: #e5dbd2;
+}
+hr{
+  height: 2px;
+  background-color: black;
+  border: none;
+  
+}
+
+h3{
+  color: #404040;
+  font-size: 18px;
+  font-weight: 579;
+}
+
+main{
+  
+}
+
+p{
+  font-family: "courier", "Sans-Serif";
+  font-size: 14px;
+}
+
+
+ul{
+  padding-left: 0;
+  margin-left: 0;
+}
+ol{
+  padding-left: 0;
+  margin-left: 0;
+}
+li{
+  list-style-position: inside;
+  font-family: "courier", "Sans-Serif";
+  
+}
+
+.middle{
+  text-align: center;
+  margin: 10px 120px;
+}
